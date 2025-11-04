@@ -8,5 +8,7 @@ dependencies = [
     "hnswlib>=0.8.0",
     "matplotlib>=3.10.7",
     "numpy>=2.3.4",
+    "plotly>=6.3.1",
+    "streamlit>=1.51.0",
     "tqdm>=4.67.1",
 ]
